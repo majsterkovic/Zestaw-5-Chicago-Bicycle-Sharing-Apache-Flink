@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apache.flink.connector.jdbc" type="repository">
+    <properties maven-id="org.apache.flink:flink-connector-jdbc:1.15.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-jdbc/1.15.4/flink-connector-jdbc-1.15.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-shaded-force-shading/15.0/flink-shaded-force-shading-15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
